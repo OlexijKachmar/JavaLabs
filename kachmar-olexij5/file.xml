@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="11.0.2" class="java.beans.XMLDecoder">
+ <int>1</int>
+ <object class="Book">
+  <void property="authors">
+   <object class="java.util.ArrayList">
+    <void method="add">
+     <string>adsc</string>
+    </void>
+    <void method="add">
+     <string>asdc</string>
+    </void>
+   </object>
+  </void>
+  <void property="date">
+   <string>29.05.2341</string>
+  </void>
+  <void property="genre">
+   <string>1</string>
+  </void>
+  <void property="isbn">
+   <string>1-1-1-1-1</string>
+  </void>
+  <void property="name">
+   <string>1</string>
+  </void>
+  <void property="widawniztwo">
+   <string>1</string>
+  </void>
+ </object>
+</java>
