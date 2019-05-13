@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="11.0.2" class="java.beans.XMLDecoder">
+ <int>2</int>
+ <object class="Book">
+  <void property="authors">
+   <object class="java.util.ArrayList">
+    <void method="add">
+     <string>1</string>
+    </void>
+   </object>
+  </void>
+  <void property="date">
+   <string>1</string>
+  </void>
+  <void property="genre">
+   <string>1</string>
+  </void>
+  <void property="isbn">
+   <string>1</string>
+  </void>
+  <void property="name">
+   <string>Alex</string>
+  </void>
+  <void property="widawniztwo">
+   <string>1</string>
+  </void>
+ </object>
+ <object class="Book">
+  <void property="authors">
+   <object class="java.util.ArrayList">
+    <void method="add">
+     <string>2</string>
+    </void>
+   </object>
+  </void>
+  <void property="date">
+   <string>2</string>
+  </void>
+  <void property="genre">
+   <string>2</string>
+  </void>
+  <void property="isbn">
+   <string>2</string>
+  </void>
+  <void property="name">
+   <string>Loxa</string>
+  </void>
+  <void property="widawniztwo">
+   <string>2</string>
+  </void>
+ </object>
+</java>
